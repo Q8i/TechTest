@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireObjectMapper (4.0.1):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Gloss (1.2.0)
+  - Money (2.0.1):
+    - ValueCoding (~> 2)
+  - ObjectMapper (2.2.2)
+  - ValueCoding (2.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AlamofireObjectMapper (~> 4.0)
+  - Gloss (~> 1.2)
+  - Money
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireObjectMapper: 842d2eed43a4d0593ff0110d54ac86a170c4519c
+  Gloss: ec49584b2e8144e39810b6db6285433316e0c1c7
+  Money: 6faa689f86c455112971c900e8a31fa0b9c02365
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  ValueCoding: f18cd2f0c941c43e06669717ca25aeed02d702a9
+
+PODFILE CHECKSUM: b7a94be26d8bfee13f73396794eaddc4ddcfd481
+
+COCOAPODS: 1.2.0
